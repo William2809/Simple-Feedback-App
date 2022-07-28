@@ -1,5 +1,3 @@
-import FeedbackContext from '../context/FeedbackContext';
-
 function RatingSelect({ select, selected }) {
 
     const handleChange = (e) => {
